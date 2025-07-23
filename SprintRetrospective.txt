@@ -1,0 +1,51 @@
+SPRINT RETROSPECTIVE
+Projeto: Desafio de Versionamento e Metodologias Ágeis
+Sprint: 1
+Data: [21/07/2025]
+
+✅ O que funcionou bem:
+
+Versionamento eficiente:
+
+Uso de branches separadas (index e contato) para cada história evitou conflitos.
+
+Commits descritivos facilitaram o rastreamento das alterações.
+
+Metodologia ágil: Divisão clara de tarefas conforme o Sprint Backlog.
+
+Todas as histórias foram concluídas dentro do prazo estimado.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+❌ O que não funcionou bem:
+Documentação ausente:
+
+Falta de detalhes no Product Backlog sobre cores exatas (ex.: código HEX) e textos específicos para os links.
+
+Gestão de arquivos:
+
+Dependência de arquivos anexos não fornecidos (ex.: Product Backlog.docx), o que exigiu suposições.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+💡 Sugestões de melhoria para próximos sprints:
+
+Documentação detalhada:
+
+Incluir códigos de cores exatos e textos obrigatórios no Backlog.
+
+Validação prévia:
+
+Garantir que todos os arquivos de suporte (ex.: index.html, contato.html) estejam disponíveis no repositório antes do início do sprint.
+
+Revisão de branches:
+
+Usar nomes de branches alinhados aos IDs das histórias (ex.: feature/ID1-veiculos-azuis).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📌 Ações definidas: Atualizar o template do Product Backlog com campos obrigatórios.
+
+Criar um checklist de arquivos necessários antes do planejamento.
